@@ -16,7 +16,7 @@ interface AccordionItem {
   title: string;
   content: string;
   isOpen: boolean;
-  seeMoreLink: string;
+  // seeMoreLink: string;
 }
 
 @Component({
@@ -83,18 +83,18 @@ export class AboutusComponent {
     //   seeMoreLink: '/sector/10'
     // },
     {
-      title: 'Business Processing Outsourcing',
+      title: 'Our Story',
       content:
-        'Business Processing Outsourcing (BPO) has transformed how companies manage operations by delegating specific business functions to third-party service providers. This sector includes call centers, finance and accounting services, human resources management, and other back-office operations that enable businesses to focus on their core competencies.',
+        'ThinkCube Systems (Pvt) Ltd was founded in early 2019 with a simple yet ambitious vision — to be the one-stop technology shop for businesses of all sizes. What started as a focused effort to serve Sri Lanka’s MSME sector has grown into a full-service digital transformation company serving corporates and government entities across the region.',
       isOpen: false,
-      seeMoreLink: '/sector/2'
+      // seeMoreLink: '/sector/2'
     },
     {
-      title: 'Power Energy',
+      title: 'What We Do',
       content:
-        'The power energy sector is fundamental to economic development and quality of life. This infrastructure includes power generation facilities, transmission lines, distribution networks, and renewable energy installations that ensure reliable and sustainable electricity supply to homes, businesses, and industries.',
+        'We specialise in transforming the business lifestyle of Micro, Small and Medium Enterprises, Corporations and Government sector entities — through cutting-edge web and mobile applications, Enterprise Resource Planning solutions, Software as a Service platforms, and cloud-based IT infrastructure.',
       isOpen: false,
-      seeMoreLink: '/sector/4'
+      // seeMoreLink: '/sector/4'
     },
   ];
 
