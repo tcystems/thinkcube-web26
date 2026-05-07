@@ -46,6 +46,8 @@ export class ProductDetailComponent implements OnInit {
         imageby: 'Image courtesy of ThinkCube',
         contentfive:
           'ThinkCube is dedicated to supporting the growth and resilience of SMEs through innovative, user-centric digital solutions. With ezBiz, we are helping business owners across industries streamline their operations, gain valuable insights, and achieve sustainable growth, one smart decision at a time.',
+        websiteUrl: 'https://www.thinkcube.com',
+        websiteLabel: 'Visit ezBiz',
       },
       '2': {
         banner: '/images/news/blog/erp.jpeg',
@@ -74,6 +76,8 @@ export class ProductDetailComponent implements OnInit {
         imageby: 'Image courtesy of ThinkCube',
         contentfive:
           'ThinkCube is dedicated to empowering micro and small businesses with innovative, accessible digital solutions. With ezBiz Lite, we are helping entrepreneurs across Sri Lanka and beyond streamline their operations, make smarter decisions, and achieve sustainable success, all from the convenience of their smartphones.',
+        websiteUrl: 'https://www.thinkcube.com',
+        websiteLabel: 'Visit ezBiz Lite',
       },
       '3': {
         banner: '/images/news/blog/digitalimg.jpg',
@@ -102,6 +106,8 @@ export class ProductDetailComponent implements OnInit {
         imageby: 'Image courtesy of ThinkCube',
         contentfive:
           "At ThinkCube, we're passionate about helping organizations unlock their full potential through digital innovation. With LeapX, we're reimagining what's possible in corporate training and education, delivering scalable, flexible, and user-centric solutions that empower teams to thrive in the digital age.",
+        websiteUrl: 'https://www.thinkcube.com',
+        websiteLabel: 'Visit LeapX',
       },
       '4': {
         banner: '/images/news/blog/seo_pic.jpg',
@@ -130,6 +136,8 @@ export class ProductDetailComponent implements OnInit {
         imageby: 'Image courtesy of ThinkCube',
         contentfive:
           'ThinkCube is proud to support initiatives like Guru.lk that drive digital transformation in education. Our expertise in developing innovative online platforms helps organizations like Dialog Axiata PLC deliver accessible, engaging, and impactful learning experiences to users across Sri Lanka.',
+        websiteUrl: 'https://www.guru.lk',
+        websiteLabel: 'Visit Guru.lk',
       },
       '5': {
         banner: '/images/news/blog/sl_cricket.png',
@@ -158,6 +166,8 @@ export class ProductDetailComponent implements OnInit {
         imageby: 'Image courtesy of ThinkCube',
         contentfive:
           "At ThinkCube, we're passionate about pushing the boundaries of what's possible in sports technology. Our ongoing partnership with Sri Lanka Cricket is a testament to our dedication to innovation, reliability, and fan-centric design. By empowering Sri Lanka Cricket with a world-class ticketing platform, we're helping to make cricket more accessible, secure, and enjoyable for fans everywhere.",
+        websiteUrl: 'https://tickets.srilankacricket.lk',
+        websiteLabel: 'Visit SLC Ticketing',
       },
     };
 
@@ -173,5 +183,11 @@ export class ProductDetailComponent implements OnInit {
 
   navigateToProduct(productId: string): void {
     this.router.navigate(['/product-detail', productId]);
+  }
+
+  openWebsite(): void {
+    if (this.product?.websiteUrl) {
+      window.open(this.product.websiteUrl, '_blank', 'noopener,noreferrer');
+    }
   }
 }
