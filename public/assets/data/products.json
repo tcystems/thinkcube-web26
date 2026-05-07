@@ -2,46 +2,82 @@
   {
     "id": "1",
     "image": "/images/news/blog/ui-ux-img.png",
-    "name": "ERP & Business Software",
-    "subject": "ezBiz: Fully Fledged ERP Solution for SMEs",
+    "name": "Enterprise Software",
+    "subject": "eZbiz: Enterprise Resource Planning for Growing Businesses",
     "link": "1",
-    "content": "A comprehensive, cloud-based ERP platform combining Sales, Purchasing, Inventory, Accounting, CRM, and POS — purpose-built for small and medium enterprises.",
-    "category": "Enterprise Software"
+    "content": "A comprehensive cloud-based ERP solution designed to streamline operations, manage inventory, and drive growth for small and medium enterprises.",
+    "category": "ERP & Business"
   },
   {
     "id": "2",
-    "image": "/images/news/blog/erp.jpeg",
-    "name": "Mobile ERP",
-    "subject": "ezBiz Lite: Mobile ERP for Micro and Small Businesses",
+    "image": "/images/news/blog/pagin-03.jpg",
+    "name": "Event Technology",
+    "subject": "Accredify: Accreditation Management Made Simple",
     "link": "2",
-    "content": "A fully fledged mobile ERP solution designed for micro and small enterprises, putting the power of business management in the palm of your hand.",
-    "category": "Mobile Solution"
+    "content": "A smart, end-to-end accreditation system designed to manage access, credentials and approvals seamlessly across events of every scale.",
+    "category": "Event Tech"
   },
   {
     "id": "3",
-    "image": "/images/news/blog/digitalimg.jpg",
-    "name": "E-Learning Platform",
-    "subject": "LeapX: Corporate Training & Education Platform",
+    "image": "/images/news/blog/cricker_slc.jpg",
+    "name": "Event Technology",
+    "subject": "Accredify Vehicle Pass: Seamless Vehicle Access Management",
     "link": "3",
-    "content": "A next-generation e-learning solution redefining corporate training — adaptive, collaborative, and built for the modern digital workforce.",
-    "category": "EdTech"
+    "content": "A dedicated vehicle pass system that puts secure, contactless access control in the hands of your event operations team.",
+    "category": "Event Tech"
   },
   {
     "id": "4",
-    "image": "/images/news/blog/seo_pic.jpg",
-    "name": "Online Learning",
-    "subject": "Guru.lk: Digital Education Platform",
+    "image": "/images/news/blog/digitalimg.jpg",
+    "name": "E-Learning Platform",
+    "subject": "LeapX: E-Learning Built for the Modern Workplace",
     "link": "4",
-    "content": "Guru.lk makes learning accessible and convenient for everyone, anytime, anywhere — with any internet package, on any device.",
+    "content": "A powerful corporate e-learning platform designed to structure, deliver and track learning across your entire organisation — from onboarding to upskilling.",
     "category": "EdTech"
   },
   {
     "id": "5",
     "image": "/images/news/blog/sl_cricket.png",
     "name": "Sports Technology",
-    "subject": "SLC Ticketing: End-to-End Online Ticketing Platform",
+    "subject": "SLC Ticketing: End-to-End Ticketing for Live Events",
     "link": "5",
-    "content": "A state-of-the-art digital ticketing system transforming the matchday experience for Sri Lanka Cricket fans — secure, seamless, and scalable.",
+    "content": "A complete ticketing platform built to manage online and terminal sales, manifest creation and real-time ticket validation — all in one place.",
     "category": "Sports Tech"
+  },
+  {
+    "id": "6",
+    "image": "/images/news/blog/api_stack.png",
+    "name": "GovTech",
+    "subject": "E-Grama Niladari: Bringing Government Services to Every Citizen",
+    "link": "6",
+    "content": "A digital citizen portal that transforms the traditional Grama Niladari office experience into a seamless, accessible and paperless service.",
+    "category": "GovTech"
+  },
+  {
+    "id": "7",
+    "image": "/images/news/kdu.jpg",
+    "name": "Healthcare",
+    "subject": "HMS: Comprehensive Digital Management for Modern Healthcare",
+    "link": "7",
+    "content": "A fully integrated Hospital Information Management System designed to streamline every aspect of hospital operations — from patient registration to pharmacy management.",
+    "category": "HealthTech"
+  },
+  {
+    "id": "8",
+    "image": "/images/news/blog/pagin-02.jpg",
+    "name": "Sports Analytics",
+    "subject": "LiveMatch: Real-Time Match Capturing for the Modern Game",
+    "link": "8",
+    "content": "A cutting-edge live match capturing platform built to record, track and analyse cricket performance with precision — ball by ball, moment by moment.",
+    "category": "Sports Tech"
+  },
+  {
+    "id": "9",
+    "image": "/images/news/blog/seo_pic.jpg",
+    "name": "Procurement",
+    "subject": "Vendor Management: Structured Procurement for High-Stakes Operations",
+    "link": "9",
+    "content": "A centralised digital platform designed to streamline vendor registration, pre-qualification and supplier management — built for organisations that demand transparency and control.",
+    "category": "Procurement"
   }
 ]
