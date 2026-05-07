@@ -13,6 +13,8 @@ import { SectorComponent } from './pages/sector/sector.component';
 import { CompanyComponent } from './pages/sector/company/company.component';
 import { PrivacyPolicyComponent } from './pages/privacy-policy/privacy-policy.component';
 import { TermsComponent } from './pages/terms/terms.component';
+import { ProductsComponent } from './pages/products/products.component';
+import { ProductDetailComponent } from './pages/products/product-detail/product-detail.component';
 
 export const routes: Routes = [
   {
@@ -77,6 +79,8 @@ export const routes: Routes = [
       //   redirectTo: '/sector/1',
       // },
       { path: 'sector/:id', component: SectorComponent },
+      { path: 'products', component: ProductsComponent },
+      { path: 'product-detail/:product', component: ProductDetailComponent },
     ],
   },
   {
