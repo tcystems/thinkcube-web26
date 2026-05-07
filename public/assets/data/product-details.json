@@ -15,7 +15,7 @@
     "contenttwo": "eZbiz brings together purchasing, inventory, sales, accounting, CRM and point-of-sale into a single, seamlessly connected platform — so every part of your business works together, not in silos.",
     "contentthree": "From managing batch and serial inventory items to tracking customer relationships and generating financial reports, eZbiz gives business owners complete visibility and control over their operations. Whether you're running a single outlet or managing multiple locations, eZbiz scales with you — handling everything from buy and sell transactions to limited production workflows and service management, all from one place.",
     "imagesaas": "/images/news/blog/seo.jpg",
-    "websiteUrl": "#",
+    "websiteUrl": "https://www.ezbizapp.com/",
     "websiteLabel": "Visit eZbiz"
   },
   {
@@ -34,7 +34,7 @@
     "contenttwo": "Accredify allows organisers to create separate access types and zones, handle accreditation vendor by vendor, and run a structured user-wise approval process — ensuring the right people are in the right places at all times.",
     "contentthree": "From generating and printing PVC and paper accreditation cards to validating credentials at entry points in real time, Accredify covers the entire accreditation lifecycle. Whether you're managing a small corporate conference or a large-scale national event, Accredify delivers the structure, security and efficiency your event demands.",
     "imagesaas": "/images/news/blog/slc-unsplash.jpg",
-    "websiteUrl": "#",
+    "websiteUrl": "https://app.accredify.lk/authentication/login",
     "websiteLabel": "Visit Accredify"
   },
   {
@@ -53,7 +53,7 @@
     "contenttwo": "Accredify Vehicle Pass allows organisers to create separate access types and zones for vehicles, share passes instantly via URL, and validate them at entry points in real time — removing the need for physical paperwork or manual checks entirely.",
     "contentthree": "Whether it's managing media vehicles, vendor deliveries, VIP transport or staff parking, Accredify Vehicle Pass gives your team complete visibility and control over every vehicle on site. Simple to issue, easy to share and instant to validate — it's vehicle access management built for the pace of live events.",
     "imagesaas": "/images/news/blog/pagin-03.jpg",
-    "websiteUrl": "#",
+    "websiteUrl": "https://app.accredify.lk/authentication/login",
     "websiteLabel": "Visit Accredify Vehicle Pass"
   },
   {
@@ -72,7 +72,7 @@
     "contenttwo": "LeapX allows organisations to design their company hierarchy, upload and organise study materials, assign lessons to the right people, and track progress across every level of the business — all from one centralised platform.",
     "contentthree": "Whether you're onboarding new employees, rolling out compliance training or building a culture of continuous development, LeapX gives learning managers the tools to deliver structured programmes and measure their impact in real time. Purpose-built for corporates, LeapX turns learning from an afterthought into a competitive advantage.",
     "imagesaas": "/images/news/blog/seo.jpg",
-    "websiteUrl": "#",
+    "websiteUrl": "https://medcube.leapxpert.lk/",
     "websiteLabel": "Visit LeapX"
   },
   {
@@ -91,7 +91,7 @@
     "contenttwo": "The platform allows organisers to create a complete event manifest, manage online ticketing alongside terminal-wise ticket sales, and validate tickets instantly at entry points — giving operations teams full visibility and control at every stage.",
     "contentthree": "Whether you're managing a cricket match, a concert or a large-scale national event, the SLC Ticketing System is built to handle high volumes, multiple sales channels and real-time validation without missing a beat. Reliable, scalable and purpose-built for live events — it's ticketing infrastructure you can trust when it matters most.",
     "imagesaas": "/images/news/blog/travel-agency.jpg",
-    "websiteUrl": "#",
+    "websiteUrl": "https://mycricket.com.lk/slcb-ticketing-frontend-ticketing-platform-ui/home",
     "websiteLabel": "Visit SLC Ticketing"
   },
   {
@@ -110,7 +110,7 @@
     "contenttwo": "EGN digitises the end-to-end citizen service process — enabling residents to submit requests, track application status and receive approvals through a streamlined online portal, while giving Grama Niladari officers the tools to manage, process and fulfil requests efficiently and accurately.",
     "contentthree": "By eliminating manual paperwork, reducing office queues and creating a transparent digital record of every transaction, EGN not only improves the citizen experience but also empowers government officers to serve their communities more effectively. A smarter Grama Niladari office — for a smarter Sri Lanka.",
     "imagesaas": "/images/news/blog/low_code.jpg",
-    "websiteUrl": "#",
+    "websiteUrl": "http://mannar.dist.gov.lk/index.php/en/visa.html?id=32",
     "websiteLabel": "Visit E-Grama Niladari"
   },
   {
@@ -129,7 +129,7 @@
     "contenttwo": "HMS covers patient registration and profile management, doctor and staff management, lab and diagnostic management, pharmacy management, billing and invoicing, and inventory and asset management — giving hospital administrators complete operational visibility in real time.",
     "contentthree": "Whether you're managing a busy outpatient department, coordinating lab results with ward teams, or ensuring pharmacy stock levels are always accurate, HMS eliminates the inefficiencies of disconnected systems and manual processes. Built specifically for Sri Lankan hospitals and healthcare providers, it's a platform designed not just to manage operations — but to ultimately deliver better outcomes for every patient you serve.",
     "imagesaas": "/images/news/blog/mobile_res.jpg",
-    "websiteUrl": "#",
+    "websiteUrl": "https://healthapp.uhkdu.lk/#/",
     "websiteLabel": "Visit HMS"
   },
   {
@@ -148,7 +148,7 @@
     "contenttwo": "LiveMatch delivers live video capture, real-time player tracking, time-stamped data recording, detailed performance analysis, and video replay with slow motion analysis — giving teams and analysts a complete, frame-by-frame picture of every match.",
     "contentthree": "Whether you're a coaching team looking to break down opposition tactics, a broadcaster seeking richer match coverage, or a cricket board building a long-term performance database, LiveMatch delivers the tools to capture, analyse and act on match data like never before. Built for the pace, complexity and passion of cricket — it's match intelligence for the teams that refuse to leave anything to chance.",
     "imagesaas": "/images/news/blog/research-analysis_pic.jpg",
-    "websiteUrl": "#",
+    "websiteUrl": "https://analyser.mycricket.com.lk/public/login",
     "websiteLabel": "Visit LiveMatch"
   },
   {
@@ -167,7 +167,7 @@
     "contenttwo": "The system enables structured vendor registration and pre-qualification, management of vendor profiles and compliance documentation, categorisation by procurement type, performance tracking, and an annual registration cycle — all managed through one administrative interface.",
     "contentthree": "Designed to support high-value procurement across international and domestic cricket events, the platform gives procurement teams clear visibility over their entire vendor database — from first registration to ongoing performance. With verified supplier records, consistent compliance documentation and transparent procurement categories, the ThinkCube Vendor Management System transforms vendor coordination from an operational burden into a strategic advantage.",
     "imagesaas": "/images/news/blog/pagin-05.jpg",
-    "websiteUrl": "#",
+    "websiteUrl": "https://vms.mycricket.com.lk/",
     "websiteLabel": "Visit Vendor Management"
   }
 ]
