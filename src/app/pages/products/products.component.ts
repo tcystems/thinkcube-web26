@@ -1,9 +1,9 @@
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { MatPaginatorIntl, MatPaginatorModule, PageEvent } from '@angular/material/paginator';
-import { Product } from './products.interface';
 import { MatIconModule } from '@angular/material/icon';
 import { CommonModule } from '@angular/common';
 import { RouterModule } from '@angular/router';
+import { HttpClient } from '@angular/common/http';
 import { PaginatorIntlService } from '../../services/paginator-intl.service';
 
 @Component({
@@ -14,7 +14,9 @@ import { PaginatorIntlService } from '../../services/paginator-intl.service';
   styleUrl: './products.component.scss',
   providers: [{ provide: MatPaginatorIntl, useClass: PaginatorIntlService }],
 })
-export class ProductsComponent {
+export class ProductsComponent implements OnInit {
+
+  constructor(private http: HttpClient) {}
 
   scrollToTop() {
     window.scrollTo({ top: 0, behavior: 'smooth' });
@@ -23,50 +25,18 @@ export class ProductsComponent {
   currentPage = 0;
   pageSize = 10;
 
-  products: Product[] = [
-    {
-      image: '/images/news/blog/ui-ux-img.png',
-      name: 'ERP & Business Software',
-      subject: 'ezBiz: Fully Fledged ERP Solution for SMEs',
-      link: '1',
-      content: 'A comprehensive, cloud-based ERP platform combining Sales, Purchasing, Inventory, Accounting, CRM, and POS — purpose-built for small and medium enterprises.',
-      category: 'Enterprise Software',
-    },
-    {
-      image: '/images/news/blog/erp.jpeg',
-      name: 'Mobile ERP',
-      subject: 'ezBiz Lite: Mobile ERP for Micro and Small Businesses',
-      link: '2',
-      content: 'A fully fledged mobile ERP solution designed for micro and small enterprises, putting the power of business management in the palm of your hand.',
-      category: 'Mobile Solution',
-    },
-    {
-      image: '/images/news/blog/digitalimg.jpg',
-      name: 'E-Learning Platform',
-      subject: 'LeapX: Corporate Training & Education Platform',
-      link: '3',
-      content: 'A next-generation e-learning solution redefining corporate training — adaptive, collaborative, and built for the modern digital workforce.',
-      category: 'EdTech',
-    },
-    {
-      image: '/images/news/blog/seo_pic.jpg',
-      name: 'Online Learning',
-      subject: 'Guru.lk: Digital Education Platform',
-      link: '4',
-      content: 'Guru.lk makes learning accessible and convenient for everyone, anytime, anywhere — with any internet package, on any device.',
-      category: 'EdTech',
-    },
-    {
-      image: '/images/news/blog/sl_cricket.png',
-      name: 'Sports Technology',
-      subject: 'SLC Ticketing: End-to-End Online Ticketing Platform',
-      link: '5',
-      content: 'A state-of-the-art digital ticketing system transforming the matchday experience for Sri Lanka Cricket fans — secure, seamless, and scalable.',
-      category: 'Sports Tech',
-    },
-  ];
+  products: any[] = [];
+  paginatedProducts: any[] = [];
 
-  paginatedProducts = this.products.slice(0, this.pageSize);
+  ngOnInit(): void {
+    this.http.get<any[]>('assets/data/products.json').subscribe({
+      next: (data) => {
+        this.products = data;
+        this.paginatedProducts = this.products.slice(0, this.pageSize);
+      },
+      error: (err) => console.error('Failed to load products.json', err),
+    });
+  }
 
   handlePageEvent(pageEvent: PageEvent) {
     this.currentPage = pageEvent.pageIndex;

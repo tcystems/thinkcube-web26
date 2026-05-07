@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "image": "/images/news/blog/ui-ux-img.png",
+    "name": "ERP & Business Software",
+    "subject": "ezBiz: Fully Fledged ERP Solution for SMEs",
+    "link": "1",
+    "content": "A comprehensive, cloud-based ERP platform combining Sales, Purchasing, Inventory, Accounting, CRM, and POS — purpose-built for small and medium enterprises.",
+    "category": "Enterprise Software"
+  },
+  {
+    "id": "2",
+    "image": "/images/news/blog/erp.jpeg",
+    "name": "Mobile ERP",
+    "subject": "ezBiz Lite: Mobile ERP for Micro and Small Businesses",
+    "link": "2",
+    "content": "A fully fledged mobile ERP solution designed for micro and small enterprises, putting the power of business management in the palm of your hand.",
+    "category": "Mobile Solution"
+  },
+  {
+    "id": "3",
+    "image": "/images/news/blog/digitalimg.jpg",
+    "name": "E-Learning Platform",
+    "subject": "LeapX: Corporate Training & Education Platform",
+    "link": "3",
+    "content": "A next-generation e-learning solution redefining corporate training — adaptive, collaborative, and built for the modern digital workforce.",
+    "category": "EdTech"
+  },
+  {
+    "id": "4",
+    "image": "/images/news/blog/seo_pic.jpg",
+    "name": "Online Learning",
+    "subject": "Guru.lk: Digital Education Platform",
+    "link": "4",
+    "content": "Guru.lk makes learning accessible and convenient for everyone, anytime, anywhere — with any internet package, on any device.",
+    "category": "EdTech"
+  },
+  {
+    "id": "5",
+    "image": "/images/news/blog/sl_cricket.png",
+    "name": "Sports Technology",
+    "subject": "SLC Ticketing: End-to-End Online Ticketing Platform",
+    "link": "5",
+    "content": "A state-of-the-art digital ticketing system transforming the matchday experience for Sri Lanka Cricket fans — secure, seamless, and scalable.",
+    "category": "Sports Tech"
+  }
+]
