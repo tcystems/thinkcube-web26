@@ -1,5 +1,41 @@
 [
   {
+    "id": "10",
+    "image": "/images/news/learning%20management.png",
+    "name": "Sports EdTech",
+    "subject": "Coach Education LMS: Learning Management System for Sri Lanka Cricket",
+    "link": "10",
+    "content": "A centralised Learning Management System built for Sri Lanka Cricket's Coach Education Unit — managing applications, learning content, assessments and certification in one platform.",
+    "category": "EdTech"
+  },
+  {
+    "id": "11",
+    "image": "/images/news/rafledraw.png",
+    "name": "Event Technology",
+    "subject": "Ticketing & Raffle Draw System for Holy Family Convent – Old Girls Association",
+    "link": "11",
+    "content": "A streamlined web-based ticketing platform with QR-based validation and an integrated raffle draw module, built to simplify event registration, check-in and prize selection.",
+    "category": "Event Tech"
+  },
+  {
+    "id": "12",
+    "image": "/images/news/ds_ticketing.png",
+    "name": "Sports Technology",
+    "subject": "Digital Ticketing & Access Control System for D. S. Senanayake College",
+    "link": "12",
+    "content": "A centralised platform combining QR-based ticketing, wristband authentication and real-time access control to manage venue security and crowd movement for a major schools cricket encounter.",
+    "category": "Sports Tech"
+  },
+  {
+    "id": "13",
+    "image": "/images/news/roytho.png",
+    "name": "Sports Technology",
+    "subject": "Royal–Thomian Digital Ticketing Management System",
+    "link": "13",
+    "content": "A pioneering digital ticketing and access control platform built for the 147th Royal–Thomian Cricket Encounter, delivering secure QR and wristband-based entry for one of Sri Lanka's most iconic sporting events.",
+    "category": "Sports Tech"
+  },
+  {
     "id": "1",
     "image": "/images/news/blog/seo_pic.jpg",
     "name": "Procurement",

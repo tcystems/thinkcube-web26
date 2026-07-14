@@ -1,5 +1,81 @@
 [
   {
+    "id": "10",
+    "banner": "/images/news/learning%20management.png",
+    "heading": "Structured Learning for Cricket Coaching Excellence",
+    "subheading": "A comprehensive Learning Management System built for Sri Lanka Cricket's Coach Education Unit — managing applications, learning content, assessments and certification in one centralised platform.",
+    "avatar": "/images/news/articles/avatarone.png",
+    "author": {
+      "detailone": "By ThinkCube",
+      "detailtwo": "ThinkCube Products"
+    },
+    "aboutHeading": "Building the Next Generation of Cricket Coaches, Digitally",
+    "quote": "This platform is more than just a learning system; it's a foundation for developing the next generation of qualified cricket coaches through a modern, structured, and accessible digital education experience.",
+    "contentone": "Sri Lanka Cricket is taking coach education to the next level with a comprehensive Learning Management System developed by ThinkCube for its Coach Education Unit, replacing fragmented, manual coordination with a centralised digital experience for applying, learning and getting certified.",
+    "contenttwo": "The system manages every stage of the coach education journey — from course applications and candidate selection to learning content, assessments and assignments — giving administrators, coach educators and aspiring coaches a single, intuitive platform accessible across web and mobile.",
+    "contentthree": "Administrators can manage multiple coaching levels and province-based enrollments, coach educators can deliver courses and evaluate assignments, and coaches can track their certification progress end-to-end. Built to scale nationwide, the platform is set to become a cornerstone of Sri Lanka Cricket's coach development strategy.",
+    "imagesaas": "/images/news/learning%20management.png",
+    "websiteUrl": "",
+    "websiteLabel": "Learn More"
+  },
+  {
+    "id": "11",
+    "banner": "/images/news/rafledraw.png",
+    "heading": "Simplifying Event Management with Smart Ticketing and Raffle Draws",
+    "subheading": "A streamlined ticketing and raffle draw platform built for the Holy Family Convent – Old Girls Association — combining QR-based check-in with transparent, automated prize draws.",
+    "avatar": "/images/news/articles/avatarone.png",
+    "author": {
+      "detailone": "By ThinkCube",
+      "detailtwo": "ThinkCube Products"
+    },
+    "aboutHeading": "A Smarter Way to Run Ticketed Events",
+    "quote": "This platform is more than just a ticketing solution; it's a smarter way to deliver seamless event experiences while ensuring accuracy, transparency, and efficiency from registration to check-in.",
+    "contentone": "The Holy Family Convent – Old Girls Association embraced digital innovation with a streamlined Ticketing Management System developed by ThinkCube, transforming how tickets are distributed, validated and managed for its events.",
+    "contenttwo": "The platform supports every stage of the ticketing process — from generating a fixed allocation of tickets to attendee registration, QR code issuance and event-day validation — with tickets distributed via email and SMS and registration completed through a secure shared link.",
+    "contentthree": "An integrated Raffle Draw module automatically builds a list from the latest checked-in attendees, ensuring only those physically present are eligible, so organisers can export a validated list and run a transparent, randomised draw with confidence.",
+    "imagesaas": "/images/news/rafledraw.png",
+    "websiteUrl": "",
+    "websiteLabel": "Learn More"
+  },
+  {
+    "id": "12",
+    "banner": "/images/news/ds_ticketing.png",
+    "heading": "Revolutionizing Match-Day Security with Digital Access Control",
+    "subheading": "A centralised Digital Ticketing & Access Control Management System built for D. S. Senanayake College's annual cricket encounter — combining QR entry, wristband authentication and real-time crowd monitoring.",
+    "avatar": "/images/news/articles/avatarone.png",
+    "author": {
+      "detailone": "By ThinkCube",
+      "detailtwo": "ThinkCube Products"
+    },
+    "aboutHeading": "Secure, Seamless Access for a Prestigious Cricket Encounter",
+    "quote": "This platform is more than just a ticketing system; it's a comprehensive event management solution that delivers secure access, real-time visibility, and a seamless experience for both organizers and spectators.",
+    "contentone": "D. S. Senanayake College enhanced its prestigious annual cricket encounter with a Digital Ticketing & Access Control Management System developed by ThinkCube, transforming how spectators, organisers and event staff manage ticketing, venue access and crowd movement.",
+    "contenttwo": "The platform streamlines ticket allocation, payment validation, QR-based entry, wristband authentication and spectator tracking, giving organisers an intuitive, end-to-end solution while significantly reducing manual processes and security risks.",
+    "contentthree": "Gate Security Officers verify QR codes and wristbands in real time, while supervisors and administrators monitor crowd movement, ticket usage and entry activity through centralised dashboards — setting a new benchmark for secure, well-organised school cricket events.",
+    "imagesaas": "/images/news/ds_ticketing.png",
+    "websiteUrl": "",
+    "websiteLabel": "Learn More"
+  },
+  {
+    "id": "13",
+    "banner": "/images/news/roytho.png",
+    "heading": "Pioneering Digital Match-Day Experiences for the Royal–Thomian Encounter",
+    "subheading": "The first fully digital Ticketing & Access Control Management System for the historic Royal–Thomian Cricket Encounter — built by ThinkCube for the Joint Match Organizing Committee.",
+    "avatar": "/images/news/articles/avatarone.png",
+    "author": {
+      "detailone": "By ThinkCube",
+      "detailtwo": "ThinkCube Products"
+    },
+    "aboutHeading": "A Landmark Digital Transformation for Sri Lanka's Most Iconic Cricket Rivalry",
+    "quote": "This platform is more than just a ticketing system; it's a milestone in digital event management, delivering secure access, real-time visibility, and a seamless experience for one of Sri Lanka's most iconic sporting events.",
+    "contentone": "For the first time in its history, the Royal–Thomian Cricket Encounter's Joint Match Organizing Committee (JMOC) implemented a fully digital Ticketing & Access Control Management System, developed by ThinkCube for the 147th edition of the match.",
+    "contenttwo": "The platform streamlined digital ticket issuance, payment validation, QR-based entry, wristband authentication and real-time gate monitoring, giving organisers, security personnel, tent holders and spectators an intuitive, end-to-end experience across the three-day event.",
+    "contentthree": "Gate Security Officers validated QR codes and wristbands in real time, while supervisors and administrators tracked spectator movement and maintained complete visibility across every entry point — setting a new standard for large-scale sporting events in Sri Lanka.",
+    "imagesaas": "/images/news/roytho.png",
+    "websiteUrl": "",
+    "websiteLabel": "Learn More"
+  },
+  {
     "id": "1",
     "banner": "/images/news/blog/seo_pic.jpg",
     "heading": "Structured Vendor Management for High-Stakes Procurement",
