@@ -6,19 +6,20 @@
   background-color: white;
 }
 
-:host-context(.dark) .home, .dark .home {
-  background: 
-    radial-gradient(40.55% 80% at 30% 0%, rgba(34, 197, 94, 0.6) 0%, rgba(0, 0, 0, 0) 100%),
-    radial-gradient(40.55% 80% at 70% 0%, rgba(234, 179, 8, 0.6) 0%, rgba(0, 0, 0, 0) 100%);
-  background-color: transparent;
-}
+// Dark theme disabled for now — kept here in case it needs to be re-enabled later.
+// :host-context(.dark) .home, .dark .home {
+//   background:
+//     radial-gradient(40.55% 80% at 30% 0%, rgba(34, 197, 94, 0.6) 0%, rgba(0, 0, 0, 0) 100%),
+//     radial-gradient(40.55% 80% at 70% 0%, rgba(234, 179, 8, 0.6) 0%, rgba(0, 0, 0, 0) 100%);
+//   background-color: transparent;
+// }
 .cmb {
   // height: 100vh;
   width: 100%;
   position: absolute;
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-image: url(/images/home/cmb.png);
+  top: 0;
+  left: 0;
+  object-fit: cover;
   opacity: 0.6;
 
 }
@@ -31,25 +32,25 @@
   -webkit-text-fill-color: transparent;
 }
 
-:host-context(.dark) .gradient-header, .dark .gradient-header {
-  background: linear-gradient(to right, #ffffff, #71717a);
-  -webkit-background-clip: text;
-  background-clip: text;
-  -webkit-text-fill-color: transparent;
-}
+// :host-context(.dark) .gradient-header, .dark .gradient-header {
+//   background: linear-gradient(to right, #ffffff, #71717a);
+//   -webkit-background-clip: text;
+//   background-clip: text;
+//   -webkit-text-fill-color: transparent;
+// }
 
 .gradient-text {
   color: #374151;
 }
 
-:host-context(.dark) .gradient-text, .dark .gradient-text {
-  color: #a1a1aa;
-}
+// :host-context(.dark) .gradient-text, .dark .gradient-text {
+//   color: #a1a1aa;
+// }
 
 
-:host-context(.dark) .gradient-text, .dark .gradient-text {
-  color: #a1a1aa;
-}
+// :host-context(.dark) .gradient-text, .dark .gradient-text {
+//   color: #a1a1aa;
+// }
 
 
 

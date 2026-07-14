@@ -14,29 +14,31 @@ import { HostListener } from '@angular/core';
   styleUrl: './header.component.scss',
 })
 export class HeaderComponent {
-  isDarkMode = true;
+  // Dark theme disabled for now — site stays on the light theme.
+  // Kept here (commented) in case dark mode needs to be re-enabled later.
+  isDarkMode = false;
 
   ngOnInit() {
-    if (typeof document !== "undefined") {
-      if (typeof localStorage !== "undefined" && localStorage.getItem("theme") === "light") {
-        this.isDarkMode = false;
-        document.documentElement.classList.remove("dark");
-      } else {
-        this.isDarkMode = true;
-        document.documentElement.classList.add("dark");
-      }
-    }
+    // if (typeof document !== "undefined") {
+    //   if (typeof localStorage !== "undefined" && localStorage.getItem("theme") === "light") {
+    //     this.isDarkMode = false;
+    //     document.documentElement.classList.remove("dark");
+    //   } else {
+    //     this.isDarkMode = true;
+    //     document.documentElement.classList.add("dark");
+    //   }
+    // }
   }
 
   toggleTheme() {
-    this.isDarkMode = !this.isDarkMode;
-    if (this.isDarkMode) {
-      document.documentElement.classList.add("dark");
-      localStorage.setItem("theme", "dark");
-    } else {
-      document.documentElement.classList.remove("dark");
-      localStorage.setItem("theme", "light");
-    }
+    // this.isDarkMode = !this.isDarkMode;
+    // if (this.isDarkMode) {
+    //   document.documentElement.classList.add("dark");
+    //   localStorage.setItem("theme", "dark");
+    // } else {
+    //   document.documentElement.classList.remove("dark");
+    //   localStorage.setItem("theme", "light");
+    // }
   }
   isScrolled = false;
   isMobileMenuOpen = false;
