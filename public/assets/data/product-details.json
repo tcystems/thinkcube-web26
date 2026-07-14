@@ -1,23 +1,24 @@
 [
   {
     "id": "1",
-    "banner": "/images/news/blog/ui-ux-img.png",
-    "heading": "Enterprise Resource Planning for Growing Businesses",
-    "subheading": "A comprehensive cloud-based ERP solution designed to streamline operations, manage inventory, and drive growth for small and medium enterprises.",
+    "banner": "/images/news/blog/seo_pic.jpg",
+    "heading": "Structured Vendor Management for High-Stakes Procurement",
+    "subheading": "A centralised digital platform designed to streamline vendor registration, pre-qualification and supplier management — built for organisations that demand transparency, accuracy and control.",
     "avatar": "/images/news/articles/avatarone.png",
     "author": {
       "detailone": "By ThinkCube",
       "detailtwo": "ThinkCube Products"
     },
-    "aboutHeading": "Smart ERP Built for the Way You Do Business",
-    "quote": "Empowering MSMEs with an all-in-one business management platform that simplifies operations from purchase to payment.",
-    "contentone": "At ThinkCube, we built eZbiz for the businesses that keep economies moving — the pharmacies, hardware stores, mini marts and mobile shops that need powerful tools without the complexity of enterprise-level systems.",
-    "contenttwo": "eZbiz brings together purchasing, inventory, sales, accounting, CRM and point-of-sale into a single, seamlessly connected platform — so every part of your business works together, not in silos.",
-    "contentthree": "From managing batch and serial inventory items to tracking customer relationships and generating financial reports, eZbiz gives business owners complete visibility and control over their operations. Whether you're running a single outlet or managing multiple locations, eZbiz scales with you — handling everything from buy and sell transactions to limited production workflows and service management, all from one place.",
-    "imagesaas": "/images/news/blog/seo.jpg",
-    "websiteUrl": "https://www.ezbizapp.com/",
-    "websiteLabel": "Visit eZbiz"
-  },
+    "aboutHeading": "Replacing Spreadsheets with a System Built for Serious Procurement",
+    "quote": "From vendor registration to performance tracking — complete supplier management designed for organisations that can't afford gaps in their procurement process.",
+    "contentone": "When Sri Lanka Cricket needed to bring structure, transparency and control to its supplier and service provider network, ThinkCube delivered a purpose-built Vendor Management System that replaced manual and spreadsheet-based coordination with a single, centralised digital platform.",
+    "contenttwo": "The system enables structured vendor registration and pre-qualification, management of vendor profiles and compliance documentation, categorisation by procurement type, performance tracking, and an annual registration cycle — all managed through one administrative interface.",
+    "contentthree": "Designed to support high-value procurement across international and domestic cricket events, the platform gives procurement teams clear visibility over their entire vendor database — from first registration to ongoing performance. With verified supplier records, consistent compliance documentation and transparent procurement categories, the ThinkCube Vendor Management System transforms vendor coordination from an operational burden into a strategic advantage.",
+    "imagesaas": "/images/news/blog/pagin-05.jpg",
+    "websiteUrl": "https://www.srilankacricket.lk/suppliers-registration/ ",
+    "websiteLabel": "Visit Vendor Management"
+  }
+  ,
   {
     "id": "2",
     "banner": "/images/news/blog/pagin-03.jpg",
@@ -153,21 +154,22 @@
   },
   {
     "id": "9",
-    "banner": "/images/news/blog/seo_pic.jpg",
-    "heading": "Structured Vendor Management for High-Stakes Procurement",
-    "subheading": "A centralised digital platform designed to streamline vendor registration, pre-qualification and supplier management — built for organisations that demand transparency, accuracy and control.",
+    "banner": "/images/news/blog/ui-ux-img.png",
+    "heading": "Enterprise Resource Planning for Growing Businesses",
+    "subheading": "A comprehensive cloud-based ERP solution designed to streamline operations, manage inventory, and drive growth for small and medium enterprises.",
     "avatar": "/images/news/articles/avatarone.png",
     "author": {
       "detailone": "By ThinkCube",
       "detailtwo": "ThinkCube Products"
     },
-    "aboutHeading": "Replacing Spreadsheets with a System Built for Serious Procurement",
-    "quote": "From vendor registration to performance tracking — complete supplier management designed for organisations that can't afford gaps in their procurement process.",
-    "contentone": "When Sri Lanka Cricket needed to bring structure, transparency and control to its supplier and service provider network, ThinkCube delivered a purpose-built Vendor Management System that replaced manual and spreadsheet-based coordination with a single, centralised digital platform.",
-    "contenttwo": "The system enables structured vendor registration and pre-qualification, management of vendor profiles and compliance documentation, categorisation by procurement type, performance tracking, and an annual registration cycle — all managed through one administrative interface.",
-    "contentthree": "Designed to support high-value procurement across international and domestic cricket events, the platform gives procurement teams clear visibility over their entire vendor database — from first registration to ongoing performance. With verified supplier records, consistent compliance documentation and transparent procurement categories, the ThinkCube Vendor Management System transforms vendor coordination from an operational burden into a strategic advantage.",
-    "imagesaas": "/images/news/blog/pagin-05.jpg",
-    "websiteUrl": "https://www.srilankacricket.lk/suppliers-registration/ ",
-    "websiteLabel": "Visit Vendor Management"
+    "aboutHeading": "Smart ERP Built for the Way You Do Business",
+    "quote": "Empowering MSMEs with an all-in-one business management platform that simplifies operations from purchase to payment.",
+    "contentone": "At ThinkCube, we built eZbiz for the businesses that keep economies moving — the pharmacies, hardware stores, mini marts and mobile shops that need powerful tools without the complexity of enterprise-level systems.",
+    "contenttwo": "eZbiz brings together purchasing, inventory, sales, accounting, CRM and point-of-sale into a single, seamlessly connected platform — so every part of your business works together, not in silos.",
+    "contentthree": "From managing batch and serial inventory items to tracking customer relationships and generating financial reports, eZbiz gives business owners complete visibility and control over their operations. Whether you're running a single outlet or managing multiple locations, eZbiz scales with you — handling everything from buy and sell transactions to limited production workflows and service management, all from one place.",
+    "imagesaas": "/images/news/blog/seo.jpg",
+    "websiteUrl": "https://www.ezbizapp.com/",
+    "websiteLabel": "Visit eZbiz"
   }
+  
 ]

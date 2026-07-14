@@ -1,12 +1,12 @@
 [
   {
     "id": "1",
-    "image": "/images/news/blog/ui-ux-img.png",
-    "name": "Enterprise Software",
-    "subject": "eZbiz: Enterprise Resource Planning for Growing Businesses",
-    "link": "1",
-    "content": "A comprehensive cloud-based ERP solution designed to streamline operations, manage inventory, and drive growth for small and medium enterprises.",
-    "category": "ERP & Business"
+    "image": "/images/news/blog/seo_pic.jpg",
+    "name": "Procurement",
+    "subject": "Vendor Management: Structured Procurement for High-Stakes Operations",
+    "link": "9",
+    "content": "A centralised digital platform designed to streamline vendor registration, pre-qualification and supplier management — built for organisations that demand transparency and control.",
+    "category": "Procurement"
   },
   {
     "id": "2",
@@ -73,11 +73,12 @@
   },
   {
     "id": "9",
-    "image": "/images/news/blog/seo_pic.jpg",
-    "name": "Procurement",
-    "subject": "Vendor Management: Structured Procurement for High-Stakes Operations",
-    "link": "9",
-    "content": "A centralised digital platform designed to streamline vendor registration, pre-qualification and supplier management — built for organisations that demand transparency and control.",
-    "category": "Procurement"
+    "image": "/images/news/blog/ui-ux-img.png",
+    "name": "Enterprise Software",
+    "subject": "eZbiz: Enterprise Resource Planning for Growing Businesses",
+    "link": "1",
+    "content": "A comprehensive cloud-based ERP solution designed to streamline operations, manage inventory, and drive growth for small and medium enterprises.",
+    "category": "ERP & Business"
   }
+  
 ]

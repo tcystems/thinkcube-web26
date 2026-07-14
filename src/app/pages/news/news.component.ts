@@ -33,30 +33,31 @@ export class NewsComponent {
 
 newses: news[] = [
     {
-      image: '/images/news/blog/sl_cricket.png',  // Updated to match article 1's banner
-      name: 'Malith Weeramuni 20 January 2025',
-      subject: "Game On: How Online & On-Demand Ticketing is Transforming Cricket for Sri Lanka's Fans",
+      image: '/images/news/blog/cricker_slc.jpg',  // Updated to match article 5's banner
+      name: 'Dinithi Dissanayaka',
+      subject: 'Streamlining Procurement Operations: Vendor Management System for Sri Lanka Cricket',
       link: '1',
-      content: 'Expert project management ensures infrastructure success, efficiency, quality, and sustainability.',
+      content: 'Sri Lanka Cricket is embracing digital transformation in its procurement processes with the launch of a state-of-the-art Vendor Management System (VMS).',
       iconHref: 'https://www.oceanwatch.lk',
       button1: { label: 'UI/UX', href: 'https://www.oceanwatch.lk', class: 'btn-1' },
       button2: { label: 'Research', href: 'https://www.oceanwatch.lk', class: 'btn-2' },
       button3: { label: 'Presentation', href: 'https://www.oceanwatch.lk', class: 'btn-3' },
     },
     {
-      image: '/images/news/blog/pagin-02.jpg',  // Matches article 2's banner
-      name: 'Divya Perera',
-      subject: "Unlocking Cricket's Digital Potential: Advanced Match Capturing and Analysis for SLC Domestic Matches",
+      image: '/images/news/blog/Mepa.jpg',  // Updated to match article 4's banner
+      name: 'Dinithi Dissanayaka',
+      subject: 'Empowering Coastal Conservation: Web-Based System for the Marine Environment Protection Authority',
       link: '2',
-      content: 'Kapital Corp International accelerates infrastructure and tech growth through strategic global partnerships.',
+      content: 'The Marine Environment Protection Authority (MEPA) is advancing Sri Lanka\'s environmental conservation efforts with a comprehensive web-based management system developed by ThinkCube.',
       iconHref: 'https://www.oceanwatch.lk',
       button1: { label: 'UI/UX', href: 'https://www.oceanwatch.lk', class: 'btn-1' },
       button2: { label: 'Research', href: 'https://www.oceanwatch.lk', class: 'btn-2' },
       button3: { label: 'Presentation', href: 'https://www.oceanwatch.lk', class: 'btn-3' },
     },
+    
     {
       image: '/images/news/blog/pagin-03.jpg',  // Matches article 3's banner
-      name: 'Divya Perera',
+      name: 'Dinithi Dissanayaka',
       subject: 'Modernizing Event Access: System-Based Accreditation Services for Sri Lanka Cricket',
       link: '3',
       content: 'Cities integrate technology, sustainability, mobility, and green infrastructure for the future.',
@@ -66,22 +67,22 @@ newses: news[] = [
       button3: { label: 'Presentation', href: 'https://www.oceanwatch.lk', class: 'btn-3' },
     },
     {
-      image: '/images/news/blog/Mepa.jpg',  // Updated to match article 4's banner
-      name: 'Divya Perera',
-      subject: 'Empowering Coastal Conservation: Web-Based Mobile App for Marine Environment Protection Authority',
+      image: '/images/news/blog/pagin-02.jpg',  // Matches article 2's banner
+      name: 'Dinithi Dissanayaka',
+      subject: 'Enhancing Match Intelligence: Match Capturing System for Sri Lanka Cricket',
       link: '4',
-      content: 'Healthcare systems adapt post-pandemic with innovation, resilience, technology, and collaboration.',
+      content: 'Sri Lanka Cricket has strengthened its match operations with the implementation of a real-time Match Capturing System developed by ThinkCube.',
       iconHref: 'https://www.oceanwatch.lk',
       button1: { label: 'UI/UX', href: 'https://www.oceanwatch.lk', class: 'btn-1' },
       button2: { label: 'Research', href: 'https://www.oceanwatch.lk', class: 'btn-2' },
       button3: { label: 'Presentation', href: 'https://www.oceanwatch.lk', class: 'btn-3' },
     },
     {
-      image: '/images/news/blog/cricker_slc.jpg',  // Updated to match article 5's banner
-      name: 'Divya Perera',
-      subject: 'Streamlining Partnerships: Vendor Management Software for Sri Lanka Cricket',
+      image: '/images/news/blog/sl_cricket.png',  // Updated to match article 1's banner
+      name: 'Dinithi Dissanayaka',
+      subject: 'Transforming Cricket Ticketing: Online Ticketing System for Sri Lanka Cricket',
       link: '5',
-      content: 'Tourism balances growth, environment, community, culture, and economic sustainability.',
+      content: 'Sri Lanka Cricket has revolutionized the way fans purchase match tickets through a comprehensive Online Ticketing System developed by ThinkCube.',
       iconHref: 'https://www.oceanwatch.lk',
       button1: { label: 'UI/UX', href: 'https://www.oceanwatch.lk', class: 'btn-1' },
       button2: { label: 'Research', href: 'https://www.oceanwatch.lk', class: 'btn-2' },
@@ -100,7 +101,7 @@ newses: news[] = [
     // },
     {
       image: '/images/news/kdu.jpg',  // Updated to match article 7's banner
-      name: 'Divya Perera',
+      name: 'Dinithi Dissanayaka',
       subject: 'Hospital Information Management System: Digital Transformation at Kothalawala Defense University Hospital',
       link: '7',
       content: 'Telecom evolves with 5G, AI, IoT, sustainability, and innovation.',
@@ -111,7 +112,7 @@ newses: news[] = [
     },
     {
       image: '/images/news/blog/api_stack.png',  // Matches article 8's banner
-      name: 'Divya Perera',
+      name: 'Dinithi Dissanayaka',
       subject: 'E-Grama Niladari: Pioneering Digital Governance for Sri Lanka',
       link: '8',
       content: 'We harness cutting-edge technology to ensure sustainable farming and secure food systems.',
@@ -122,7 +123,7 @@ newses: news[] = [
     },
     {
       image: '/images/news/blog/seo_pic.jpg',  // Updated to match article 9's banner
-      name: 'Divya Perera',
+      name: 'Dinithi Dissanayaka',
       subject: 'Guru.lk: Revolutionizing Online Learning in Partnership with Dialog Axiata',
       link: '9',
       content: 'We harness cutting-edge technology to ensure sustainable farming and secure food systems.',
@@ -133,7 +134,7 @@ newses: news[] = [
     },
     {
       image: '/images/news/blog/ui-ux-img.png',  // Updated to match article 10's banner
-      name: 'Divya Perera',
+      name: 'Dinithi Dissanayaka',
       subject: 'ezBiz: Empowering SMEs with a Fully Fledged ERP Solution',
       link: '10',
       content: 'We harness cutting-edge technology to ensure sustainable farming and secure food systems.',
@@ -144,7 +145,7 @@ newses: news[] = [
     },
     {
       image: '/images/news/blog/erp.jpeg',  // Updated to match article 11's banner
-      name: 'Divya Perera',
+      name: 'Dinithi Dissanayaka',
       subject: 'ezBiz Lite: Mobile ERP for Micro and Small Businesses',
       link: '11',
       content: 'We harness cutting-edge technology to ensure sustainable farming and secure food systems.',
@@ -155,7 +156,7 @@ newses: news[] = [
     },
     {
       image: '/images/news/blog/digitalimg.jpg',  // Updated to match article 12's banner
-      name: 'Divya Perera',
+      name: 'Dinithi Dissanayaka',
       subject: 'LeapX: Redefining Corporate Training and Education for the Digital Era',
       link: '12',
       content: 'We harness cutting-edge technology to ensure sustainable farming and secure food systems.',
@@ -166,7 +167,7 @@ newses: news[] = [
     },
         {
       image: '/images/company/lottery.jpg',  // Updated to match article 12's banner
-      name: 'Divya Perera',
+      name: 'Dinithi Dissanayaka',
       subject: 'WIN WAY: Pioneering a Digital Lottery Revolution in Sri Lanka',
       link: '13',
       content: 'WIN WAY is Sri Lanka’s first fully digital national lottery platform, developed by Kapital Corp and Cubematrix to modernize access, boost transparency, and support national development.',

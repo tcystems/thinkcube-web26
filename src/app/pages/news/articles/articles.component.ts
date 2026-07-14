@@ -17,61 +17,62 @@ export class ArticlesComponent implements OnInit {
   ngOnInit() {
     this.articles = {
       '1': {
-        banner: '/images/news/blog/sl_cricket.png',
-        heading: 'Game On: How Online & On-Demand Ticketing is Transforming Cricket for Sri Lanka\'s Fans',
+        banner: '/images/news/slc.png',
+        heading: 'Streamlining Procurement Operations: Vendor Management System for Sri Lanka Cricket',
         avatar: '/images/news/articles/avatarone.png',
         author: {
           detailone: 'By ThinkCube',
           detailtwo: 'June, 2025',
         },
         contentone:
-          "Step into the future of cricket fandom with Sri Lanka Cricket and ThinkCube. Gone are the days of long queues, lost tickets, and last-minute scrambles. Since 2022, Sri Lanka Cricket has been reimagining the matchday experience with a state-of-the-art, end-to-end online ticketing platform, crafted by ThinkCube to put the power of cricket access directly into fans' hands.",
+          'Sri Lanka Cricket has modernized its supplier management processes with the successful implementation of a Vendor Management System (VMS) developed by ThinkCube. Designed to centralize vendor registration, qualification, verification, and management, the platform is transforming how suppliers and service providers are onboarded and managed while supporting efficient procurement operations across the organization.',
         contenttwo:
-          'Imagine: You\'re on your way to a high-stakes international match. With just a few taps on your phone, you\'ve secured your seat, received your e-ticket, and are ready to walk straight into the stadium, hassle-free. This is the new normal for Sri Lankan cricket fans, thanks to a digital ticketing revolution that\'s making the game more accessible, secure, and exciting than ever before.',
+          'The platform is designed to streamline every stage of the vendor lifecycle. From supplier registration and document submission to qualification, verification, and profile management, the system provides an intuitive, centralized solution for procurement teams and vendors alike. Accessible through a secure web platform, it simplifies administrative processes while improving transparency, accuracy, and operational efficiency.',
         contentthree:
-          "The ThinkCube platform was built to meet the soaring expectations of modern fans, offering convenience, transparency, and top-tier security at every turn. Whether you're a die-hard local supporter or an international visitor, the system is designed to handle thousands of transactions with ease, ensuring you never miss a moment of the action. No more worries about lost or counterfeit passes; your e-ticket is your golden key to the stadium, with seamless authentication at every gate.",
+          'At the heart of the system is its comprehensive vendor management framework, enabling administrators to review applications, validate documentation, maintain supplier records, and manage procurement-related workflows with ease. Vendors can securely submit and update their information, ensuring all records remain current and compliant with organizational requirements.',
         quote:
-          'This platform is not just about selling tickets—it\'s about enhancing the fan experience and making cricket more accessible to everyone.',
+          'This platform is more than just a vendor database; it\'s a centralized digital ecosystem that strengthens procurement processes through transparency, efficiency, and secure supplier management.',
         smallheading: "",
         smallcontent:
-          'But the innovation doesn\'t stop at the gate. The platform delivers real-time inventory updates, dynamic pricing, and powerful analytics, giving Sri Lanka Cricket the insights it needs to optimize every event and respond to fan demand like never before. Multiple payment options and multilingual support mean that every fan, no matter where they\'re from, can enjoy a smooth and intuitive booking experience.',
+          'Beyond day-to-day operations, the system provides valuable insights into vendor performance and registration activities. Administrators can monitor application status, track document compliance, generate reports, and maintain an up-to-date repository of approved suppliers. This data-driven approach supports informed procurement decisions while reducing manual effort and improving governance.',
         quoteauthor: 'ThinkCube Leadership Team',
         contenfour:
-          "The impact is clear: From the Australia Tour to today's ongoing inbound series, ThinkCube's ticketing platform has become the backbone of Sri Lanka Cricket's matchday operations. It's not just about streamlining entries, it's about creating unforgettable experiences, fostering community, and bringing fans closer to the game they love.",
-        headertwo: 'ThinkCube\'s Commitment to Digital Innovation in Sports',
-        imagesaas: '/images/news/blog/travel-agency.jpg',
+          'Successfully commissioned and currently operational at Sri Lanka Cricket, the Vendor Management System has become a key component of the organization\'s procurement strategy. By embracing digital transformation, Sri Lanka Cricket has established a reliable, scalable, and secure platform that enhances supplier engagement and supports efficient procurement management.',
+        headertwo: 'ThinkCube\'s Commitment to Digital Procurement Solutions',
+        imagesaas: '/images/news/blog/pagin-05.jpg',
         imageby: 'Image courtesy of TechVision Labs',
         contentfive:
-          "At ThinkCube, we're passionate about pushing the boundaries of what's possible in sports technology. Our ongoing partnership with Sri Lanka Cricket is a testament to our dedication to innovation, reliability, and fan-centric design. By empowering Sri Lanka Cricket with a world-class ticketing platform, we're helping to make cricket more accessible, secure, and enjoyable for fans everywhere and setting a new standard for the future of sports event management.",
+          'ThinkCube is proud to support Sri Lanka Cricket with innovative enterprise solutions that modernize procurement and vendor management. Our expertise in building secure, scalable, and user-friendly platforms helps organizations streamline operations, strengthen governance, and deliver greater efficiency through digital transformation.',
       },
       '2': {
-        banner: '/images/news/articles/ticketing.jpg',
-        heading: 'Unlocking Cricket\'s Digital Potential: Advanced Match Capturing and Analysis for SLC Domestic Matches',
+        banner: '/images/news/blog/Mepa.jpg',
+        heading: 'Empowering Coastal Conservation: Web-Based System for the Marine Environment Protection Authority',
         avatar: '/images/news/articles/avatarone.png',
         author: {
           detailone: 'By ThinkCube',
-          detailtwo: 'June, 2025',
+          detailtwo: '2025',
         },
         contentone:
-          'Sri Lanka Cricket is stepping into a bold new era of performance and player development with the introduction of a cutting-edge match-capturing and analyzing software solution. Designed to revolutionize SLC\'s domestic cricket ecosystem, this comprehensive system empowers teams to record, analyze, and derive actionable insights from every match, setting a new standard for excellence in the sport.',
+          'The Marine Environment Protection Authority (MEPA) is advancing Sri Lanka\'s environmental conservation efforts with a comprehensive web-based management system developed by ThinkCube. Designed to centralize the planning, approval, and monitoring of environmental activities, the platform is transforming how cleanup initiatives are coordinated, empowering government officers, volunteers, and communities to work together in protecting the nation\'s coastal and marine ecosystems.',
         contenttwo:
-          'Imagine a world where every ball bowled, every shot played, and every fielding movement is captured in stunning detail, ready for in-depth analysis. That\'s the promise of this advanced software, which has been developed and handed over to SLC to support their domestic competition. With trained analysts at the helm, the platform delivers a wealth of data and visual insights, transforming raw match footage into a goldmine of information for coaches, selectors, and players alike.',
+          'The platform is designed to streamline every stage of environmental activity management. From user registration and activity bookings to equipment requests, approvals, progress tracking, and certificate generation, the system provides an intuitive, all-in-one solution for MEPA administrators, Government District Officers, and registered participants. Accessible through web and mobile browsers, the platform enables users to organize and participate in beach cleanups, harbour cleanups, canal strainer programs, and caretaker initiatives with ease.',
         contentthree:
-          'The system is engineered to handle the unique demands of domestic cricket, offering seamless capturing, recording, and playback of matches. Advanced algorithms and intuitive interfaces allow analysts to tag key events, track player movements, and compile comprehensive performance reports. Whether it\'s identifying emerging talent, fine-tuning team strategies, or monitoring player workloads, the software provides the tools needed to elevate Sri Lanka\'s cricketing future.',
+          'At the heart of the system is its structured workflow management, enabling administrators to oversee activity requests, coordinate district-level approvals, manage equipment allocation, and monitor project completion through a centralized dashboard. Automated notifications, email and SMS communication, digital verification, and integrated payment processing ensure a seamless experience while reducing manual effort and improving operational efficiency.',
         quote:
-          'This technology is a game-changer, giving us the ability to see and understand cricket like never before. It\'s about empowering our analysts, coaches, and players with the insights they need to succeed.',
-        smallheading: '',
+          'This platform is more than just an activity management system; it\'s a catalyst for nationwide environmental action, enabling communities and government authorities to collaborate through a transparent and technology-driven ecosystem.',
+        smallheading: "",
         smallcontent:
-          'Beyond basic statistics, the software enables deep analysis of player performance, tactical trends, and match dynamics. Coaches can review every delivery, assess field placements, and track progress over time, making data-driven decisions that sharpen team performance. The system\'s robust reporting features ensure that every stakeholder, from selectors to support staff, has access to the information they need, when they need it.',
+          'Beyond operational management, the application provides valuable insights through real-time reporting and analytics. Administrators can monitor participation levels, track cleanup progress, manage complaints, generate completion certificates, and review district-level activity summaries. Calendar-based scheduling and public donation capabilities further strengthen community engagement, enabling MEPA to make informed decisions while expanding the reach and impact of its environmental initiatives.',
         quoteauthor: 'ThinkCube Leadership Team',
         contenfour:
-          'As Sri Lanka Cricket continues to invest in technology-driven solutions, this match-capturing and analyzing platform stands as a testament to the board\'s commitment to innovation and excellence. By harnessing the power of data and digital tools, SLC is not only raising the bar for domestic cricket but also laying the foundation for sustained success on the international stage.',
-        headertwo: 'ThinkCube\'s Commitment to Cricket Innovation',
-        imagesaas: '/images/news/blog/research-analysis_pic.jpg',
-        imageby: 'Image courtesy of TechBridge Asia',
+          'As environmental sustainability becomes an increasingly national priority, this web-based management system is helping MEPA modernize its conservation programs through digital transformation. By connecting citizens, government officials, and environmental initiatives on a single platform, the Marine Environment Protection Authority is fostering greater accountability, operational efficiency, and community participation in safeguarding Sri Lanka\'s marine environment.',
+        headertwo: 'ThinkCube\'s Commitment to Environmental Innovation',
+        imagesaas: '/images/news/blog/mobile_res.jpg',
+        imageby: 'Image courtesy of TechVision Labs',
         contentfive:
-          'At ThinkCube, we\'re proud to partner with Sri Lanka Cricket on this transformative journey. Our expertise in developing and deploying advanced digital solutions is helping SLC unlock new levels of performance, insight, and growth. Together, we\'re shaping the future of cricket; one match, one analysis, and one breakthrough at a time.',
+          'ThinkCube is proud to support the Marine Environment Protection Authority with innovative digital solutions that strengthen environmental stewardship and public engagement. Our expertise in developing secure, scalable, and user-friendly platforms helps organizations modernize operations, improve collaboration, and drive meaningful environmental impact through technology.',
       },
+      
       '3': {
         banner: '/images/news/articles/Accreditation.png',
         heading: 'Modernizing Event Access: System-Based Accreditation Services for Sri Lanka Cricket',
@@ -101,60 +102,60 @@ export class ArticlesComponent implements OnInit {
           "ThinkCube is proud to support Sri Lanka Cricket with advanced digital solutions that elevate event management to new heights. Our ongoing partnership reflects a shared vision for innovation, security, and operational excellence. By empowering SLC with a world-class accreditation platform, ThinkCube is helping to make every cricket event a seamless, secure, and memorable experience.",
       },
       '4': {
-        banner: '/images/news/blog/Mepa.jpg',
-        heading: 'Empowering Coastal Conservation: Web-Based Mobile App for Marine Environment Protection Authority',
+        banner: '/images/news/articles/ticketing.jpg',
+        heading: 'Enhancing Match Intelligence: Match Capturing System for Sri Lanka Cricket',
         avatar: '/images/news/articles/avatarone.png',
         author: {
           detailone: 'By ThinkCube',
-          detailtwo: 'June, 2025',
+          detailtwo: '2024',
         },
         contentone:
-          "Sri Lanka's stunning coastlines are set to receive a powerful boost in protection, thanks to a new web-based mobile application developed for the Marine Environment Protection Authority. This innovative system is transforming how beach cleanups and conservation events are organized, managed, and executed across the country.",
+          'Sri Lanka Cricket has strengthened its match operations with the implementation of a real-time Match Capturing System developed by ThinkCube. Designed to support domestic and international cricket events, the platform enables the accurate capture, consolidation, and management of match-related data, providing authorized users with instant access to critical information throughout every stage of play.',
         contenttwo:
-          'The application is designed to streamline every aspect of coastal conservation efforts. From booking cleanup events to recruiting volunteers and allocating resources, the platform offers an intuitive, all-in-one solution for environmental stewards and community members alike. With just a few taps on their smartphones or clicks on a web browser, users can join the movement to keep Sri Lanka\'s beaches pristine.',
+          'The platform is designed to streamline the collection and management of live match data. From on-field event recording to centralized data processing and operational monitoring, the system provides an intuitive, end-to-end solution for match officials and administrators. By digitizing previously fragmented and manual processes, the platform ensures that match information is captured consistently, accurately, and made available in real time.',
         contentthree:
-          "At the heart of the system is its seamless booking process, which allows event organizers to schedule cleanups, set locations, and invite participants with ease. Volunteers can register for events, track their involvement, and receive updates in real time, ensuring everyone stays connected and informed. The app also features robust resource allocation tools, enabling organizers to manage equipment, transportation, and other essentials efficiently.",
+          'At the heart of the system is its real-time data capture framework, allowing authorized personnel to record live match events while administrators monitor operations through centralized dashboards. The platform synchronizes information instantly, enabling accurate reporting, improved coordination, and faster decision-making throughout domestic and international cricket fixtures.',
         quote:
-          'This platform is more than just a tool; it\'s a catalyst for community action, making it easier than ever for people to come together and protect our precious marine environment.',
-        smallheading: "",
+          'This platform is more than just a match recording system; it\'s a real-time intelligence platform that delivers accurate data, operational visibility, and reliable decision support for modern cricket management.',
+        smallheading: '',
         smallcontent:
-          'Beyond event management, the application provides valuable data insights for the Marine Environment Protection Authority. Organizers can monitor participation rates, track cleanup results, and generate reports to measure the impact of their efforts. This data-driven approach empowers the Authority to make informed decisions, allocate resources where they\'re needed most, and inspire even greater community engagement.',
+          'Beyond live data collection, the application provides valuable insights through centralized reporting and operational analytics. Administrators can monitor match activities, review captured data, generate reports, and maintain a complete digital record of match operations. Designed with high availability, low latency, and strong data integrity controls, the system ensures uninterrupted performance even during high-profile cricket events.',
         quoteauthor: 'ThinkCube Leadership Team',
         contenfour:
-          "As awareness of marine conservation grows, this web-based mobile application is poised to become a cornerstone of Sri Lanka's environmental protection strategy. By harnessing the power of digital technology, the Marine Environment Protection Authority is empowering citizens to take meaningful action, fostering a culture of responsibility, and safeguarding the natural beauty of Sri Lanka's shores for generations to come.",
-        headertwo: 'ThinkCube\'s Commitment to Environmental Innovation',
-        imagesaas: '/images/news/blog/mobile_res.jpg',
-        imageby: 'Image courtesy of TechVision Labs',
+          'By replacing manual data collection methods with a centralized digital platform, Sri Lanka Cricket has modernized the way match information is captured and managed. The Match Capturing System provides a reliable and scalable foundation for real-time operations, improving reporting accuracy, operational efficiency, and the overall management of cricket events.',
+        headertwo: 'ThinkCube\'s Commitment to Digital Sports Innovation',
+        imagesaas: '/images/news/blog/research-analysis_pic.jpg',
+        imageby: 'Image courtesy of TechBridge Asia',
         contentfive:
-          "ThinkCube is proud to support the Marine Environment Protection Authority with innovative digital solutions that drive community engagement and environmental stewardship. Our expertise in developing user-friendly platforms helps organizations empower citizens to take meaningful action for marine conservation, fostering a culture of responsibility and safeguarding Sri Lanka's natural beauty for future generations.",
+          'ThinkCube is proud to support Sri Lanka Cricket with innovative technology solutions that enhance sporting operations through digital transformation. Our expertise in developing secure, scalable, and high-performance platforms enables organizations to capture critical data in real time, improve operational efficiency, and deliver smarter decision-making through technology.',
       },
       '5': {
-        banner: '/images/news/slc.png',
-        heading: 'Streamlining Partnerships: Vendor Management Software for Sri Lanka Cricket',
+        banner: '/images/news/blog/sl_cricket.png',
+        heading: 'Transforming Cricket Ticketing: Online Ticketing System for Sri Lanka Cricket',
         avatar: '/images/news/articles/avatarone.png',
         author: {
           detailone: 'By ThinkCube',
-          detailtwo: 'June, 2025',
+          detailtwo: '2023',
         },
         contentone:
-          "Sri Lanka Cricket is embracing digital transformation in its procurement processes with the launch of a state-of-the-art Vendor Management System (VMS). This innovative platform is revolutionizing how suppliers connect with SLC, making registration and approval faster, more transparent, and entirely paperless.",
+          'Sri Lanka Cricket has revolutionized the way fans purchase match tickets through a comprehensive Online Ticketing System developed by ThinkCube. Designed to support domestic fixtures, international series, and high-profile cricket tournaments, the platform delivers a secure, scalable, and seamless digital ticketing experience while enabling Sri Lanka Cricket to efficiently manage high spectator demand and large transaction volumes.',
         contenttwo:
-          'The new VMS allows businesses and individuals to register as suppliers directly through an online portal. From uploading required documents to selecting relevant categories and subcategories, every step of the process is streamlined for convenience and efficiency. The system guides users through each stage, whether they\'re registering for the first time or updating their information for the new year, ensuring that all records are accurate and up-to-date.',
+          'The platform is designed to simplify every stage of the ticketing journey. From online ticket sales and secure payments to digital ticket generation, validation, and real-time reporting, the system provides an intuitive end-to-end solution for administrators and cricket fans alike. Accessible across web and mobile devices, supporters can purchase tickets anytime, while organizers gain complete visibility over ticket inventory and event operations.',
         contentthree:
-          "Once registered, suppliers can monitor their application status in real time, track payment history, and receive notifications about tenders and bids directly from SLC. The platform's intuitive dashboard provides a clear overview of each supplier's profile, application progress, and any updates required for approval. This level of transparency and automation not only saves time but also strengthens the partnership between SLC and its suppliers.",
+          'At the heart of the system is its centralized ticketing framework, enabling Sri Lanka Cricket to manage ticket releases, monitor sales, process payments securely, and validate digital tickets with ease. Built to perform reliably during peak demand for major international matches, the platform ensures high availability, accurate revenue capture, and a smooth purchasing experience even during periods of intense traffic.',
         quote:
-          'This system is more than just a registration tool; it\'s a gateway to building stronger, more trusted relationships with our valued suppliers. It ensures that only the best and most reliable partners join our network.',
+          'This platform is more than just an online ticketing system; it\'s a digital transformation that delivers secure, transparent, and scalable ticket management for Sri Lanka\'s biggest cricket events.',
         smallheading: "",
         smallcontent:
-          'The VMS also supports SLC in maintaining high standards of quality, integrity, and professionalism. By centralizing supplier information and streamlining the approval process, the system enables SLC to manage its procurement operations with greater efficiency and confidence. Suppliers, in turn, benefit from a user-friendly experience, clear communication, and direct access to new business opportunities.',
+          'Beyond ticket sales, the application provides valuable operational insights through real-time dashboards and comprehensive reporting. Administrators can monitor ticket sales, payment status, attendance trends, and revenue performance while maintaining complete auditability across the entire ticketing lifecycle. This data-driven approach enhances decision-making, improves operational efficiency, and strengthens financial transparency.',
         quoteauthor: 'ThinkCube Leadership Team',
         contenfour:
-          "With the Vendor Management System, Sri Lanka Cricket is setting a new benchmark for supplier engagement in the sports industry, empowering both the organization and its partners to thrive in a digital-first world.",
-        headertwo: 'ThinkCube\'s Commitment to Digital Excellence',
-        imagesaas: '/images/news/blog/pagin-05.jpg',
+          'By replacing fragmented and partially manual ticketing processes with a centralized digital platform, Sri Lanka Cricket has established a modern ticketing ecosystem capable of supporting the country\'s most prestigious cricket events. The Online Ticketing System continues to provide a reliable, secure, and scalable foundation that enhances the experience for both organizers and cricket fans.',
+        headertwo: 'ThinkCube\'s Commitment to Digital Sports Innovation',
+        imagesaas: '/images/news/blog/travel-agency.jpg',
         imageby: 'Image courtesy of TechVision Labs',
         contentfive:
-          "ThinkCube is proud to support Sri Lanka Cricket with innovative digital solutions that drive transparency, efficiency, and growth. Our partnership with SLC reflects a shared vision for excellence, helping to build a robust, future-ready supply chain that supports the success of cricket in Sri Lanka and beyond.",
+          'ThinkCube is proud to partner with Sri Lanka Cricket in delivering innovative digital solutions that modernize sports administration and fan engagement. Our expertise in building secure, high-performance platforms enables organizations to streamline operations, improve transparency, and deliver exceptional digital experiences through technology.',
       },
       //   banner: '/images/news/blog/travel-agency.jpg',
       //   heading: 'A New Era for Domestic Cricket: ThinkCube Secures 10-Year Event Rights for SLC Men\'s and Women\'s Tournaments',
