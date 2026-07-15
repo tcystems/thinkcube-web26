@@ -1,7 +1,7 @@
 [
   {
     "id": "10",
-    "banner": "/images/news/learning%20management.png",
+    "banner": "/images/news/learning-management.png",
     "heading": "Structured Learning for Cricket Coaching Excellence",
     "subheading": "A comprehensive Learning Management System built for Sri Lanka Cricket's Coach Education Unit — managing applications, learning content, assessments and certification in one centralised platform.",
     "avatar": "/images/news/articles/avatarone.png",
@@ -14,8 +14,8 @@
     "contentone": "Sri Lanka Cricket is taking coach education to the next level with a comprehensive Learning Management System developed by ThinkCube for its Coach Education Unit, replacing fragmented, manual coordination with a centralised digital experience for applying, learning and getting certified.",
     "contenttwo": "The system manages every stage of the coach education journey — from course applications and candidate selection to learning content, assessments and assignments — giving administrators, coach educators and aspiring coaches a single, intuitive platform accessible across web and mobile.",
     "contentthree": "Administrators can manage multiple coaching levels and province-based enrollments, coach educators can deliver courses and evaluate assignments, and coaches can track their certification progress end-to-end. Built to scale nationwide, the platform is set to become a cornerstone of Sri Lanka Cricket's coach development strategy.",
-    "imagesaas": "/images/news/learning%20management.png",
-    "websiteUrl": "",
+    "imagesaas": "/images/news/learning-management.png",
+    "websiteUrl": "https://elevate.edu.lk/",
     "websiteLabel": "Learn More"
   },
   {
