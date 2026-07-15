@@ -175,6 +175,17 @@ newses: news[] = [
       button1: { label: 'UI/UX', href: 'https://www.oceanwatch.lk', class: 'btn-1' },
       button2: { label: 'Research', href: 'https://www.oceanwatch.lk', class: 'btn-2' },
       button3: { label: 'Presentation', href: 'https://www.oceanwatch.lk', class: 'btn-3' },
+    },
+    {
+      image: '/images/news/trade-fair.png',
+      name: 'Dinithi Dissanayaka',
+      subject: 'Showcasing Local Enterprise: Made in Sri Lanka Trade Fair 2024 – Ella & 2025 – Weligama',
+      link: '14',
+      content: 'On behalf of the National Enterprise Development Authority (NEDA), ThinkCube successfully organized the Made in Sri Lanka Trade Fair 2024 in Ella and the Made in Sri Lanka Trade Fair 2025 in Weligama.',
+      iconHref: 'https://www.oceanwatch.lk',
+      button1: { label: 'UI/UX', href: 'https://www.oceanwatch.lk', class: 'btn-1' },
+      button2: { label: 'Research', href: 'https://www.oceanwatch.lk', class: 'btn-2' },
+      button3: { label: 'Presentation', href: 'https://www.oceanwatch.lk', class: 'btn-3' },
     }
   ];
 

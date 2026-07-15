@@ -379,6 +379,34 @@ export class ArticlesComponent implements OnInit {
         imageby: 'Image courtesy of TechVision Labs',
         contentfive:
           'Cubematrix (Pvt) Ltd and Kapital Corp worked closely together to build the technology behind the WIN WAY platform. While Kapital Corp led the project\'s overall vision and made sure everything met national standards, Cubematrix used its expertise in software development and security to create a reliable and easy-to-use digital lottery system.',
+      },
+      '14': {
+        banner: '/images/news/trade-fair.png',
+        heading: 'Showcasing Local Enterprise: Made in Sri Lanka Trade Fair 2024 – Ella & 2025 – Weligama',
+        avatar: '/images/news/articles/avatarone.png',
+        author: {
+          detailone: 'By ThinkCube',
+          detailtwo: '2024 - 2025',
+        },
+        contentone:
+          'On behalf of the National Enterprise Development Authority (NEDA), ThinkCube successfully organized the Made in Sri Lanka Trade Fair 2024 at the Ella Public Ground from 6th to 8th December 2024 and continued its partnership by organizing the Made in Sri Lanka Trade Fair 2025 in Weligama. These nationally recognized events brought together entrepreneurs, manufacturers, artisans, and consumers, creating a vibrant platform to promote Sri Lankan products, strengthen local businesses, and celebrate homegrown innovation.',
+        contenttwo:
+          'The trade fairs were carefully planned and executed to deliver a seamless experience for exhibitors, visitors, and stakeholders. From venue planning and exhibitor coordination to logistics, event branding, and on-site operations, ThinkCube provided comprehensive event management services that ensured the successful delivery of both exhibitions. The events created valuable opportunities for businesses to showcase their products, build new partnerships, and expand their market reach.',
+        contentthree:
+          'At the heart of the initiative was a commitment to supporting local enterprise development. Through effective coordination, structured event planning, and efficient stakeholder engagement, the exhibitions provided an organized environment where exhibitors could connect directly with thousands of visitors while promoting Sri Lankan-made products across a wide range of industries.',
+        quote:
+          'These trade fairs were more than just exhibitions; they were platforms for empowering local entrepreneurs, strengthening businesses, and celebrating the innovation and craftsmanship that define Sri Lankan enterprise.',
+        smallheading: '',
+        smallcontent:
+          'Beyond the exhibitions themselves, the events contributed to the broader mission of encouraging entrepreneurship and stimulating regional economic growth. By bringing together government agencies, private sector organizations, and local businesses, the trade fairs fostered collaboration, increased public awareness of locally manufactured products, and created meaningful business opportunities for participants from across the country.',
+        quoteauthor: 'ThinkCube Leadership Team',
+        contenfour:
+          'The successful execution of the Made in Sri Lanka Trade Fair 2024 – Ella and Made in Sri Lanka Trade Fair 2025 – Weligama reflects ThinkCube\'s capability in delivering large-scale public events that create lasting economic and community impact. Through meticulous planning and professional execution, ThinkCube continues to support national initiatives that promote Sri Lankan industries and strengthen the country\'s entrepreneurial ecosystem.',
+        headertwo: 'ThinkCube\'s Commitment to Event Excellence',
+        imagesaas: '/images/news/trade-fair.png',
+        imageby: 'Image courtesy of ThinkCube',
+        contentfive:
+          'ThinkCube is proud to partner with the National Enterprise Development Authority (NEDA) in delivering impactful national events that promote entrepreneurship and economic development. Our expertise in end-to-end event management enables organizations to create engaging experiences, foster meaningful business connections, and successfully execute large-scale initiatives that drive lasting value for communities and industries alike.',
       }
     };
 
