@@ -109,6 +109,14 @@
               Business Process Outsourcing
             </a>
           </li>
+          <li>
+            <a
+              (click)="navigateToSector('13')"
+              class="block px-6 py-3 text-sm text-black dark:text-white hover:bg-gray-700 hover:text-primary transition-colors flex items-center gap-2 cursor-pointer"
+            >
+              Software Solutions
+            </a>
+          </li>
           <!-- <li>
             <a
               (click)="navigateToSector('3')"
@@ -344,6 +352,12 @@
                 class="block rounded-lg px-4 py-2 text-sm text-black dark:text-white hover:bg-white dark:bg-black hover:bg-opacity-10 transition-all duration-200 cursor-pointer"
               >
                 Business Process Outsourcing
+              </a>
+              <a
+                (click)="navigateToSectorAndClose('13')"
+                class="block rounded-lg px-4 py-2 text-sm text-black dark:text-white hover:bg-white dark:bg-black hover:bg-opacity-10 transition-all duration-200 cursor-pointer"
+              >
+                Software Solutions
               </a>
               <!-- <a
                 (click)="navigateToSectorAndClose('3')"

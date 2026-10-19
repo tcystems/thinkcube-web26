@@ -37,6 +37,8 @@ export interface Sector {
   previewContent?: string[];
   partnerTitle?: string;
   partnerPoints?: string[];
+  buttonText?: string;
+  buttonLink?: string;
 }
 
 @Injectable({
@@ -68,25 +70,25 @@ export class SectorService {
     // },
     {
       id: '2',
-      title: 'Software & Business Process Outsourcing',
+      title: 'Business Process Outsourcing',
       subtitle:
-        'Delivering intelligent BPO and custom software solutions that streamline operations, enhance efficiency, and drive scalable growth across global industries.',
+        'Delivering intelligent BPO services that streamline operations, enhance efficiency, and drive scalable growth across global industries.',
       banner: '/images/transportation/banner2.jpg',
       headerone: 'About',
-      contentone: 'Smart BPO &',
-      contenttwo: 'Custom Software',
-      contentthree: 'Solutions Built for Performance',
+      contentone: 'Smart BPO',
+      contenttwo: 'Solutions Built',
+      contentthree: 'for Performance',
       paragraphone:
         'Empowering industries with efficient, scalable, and technology-driven Business Process Outsourcing solutions.',
       paragraphtwo:
-        'At KapitalCorp, we offer a powerful combination of Business Process Outsourcing (BPO) and custom software solutions designed to streamline operations, reduce costs, and accelerate growth for businesses worldwide. Our services are built around flexibility, efficiency, and innovation, enabling organizations to focus on their core competencies while we manage the rest with precision and care. Through our BPO division, we provide end-to-end support in areas such as customer service, technical support, finance, HR, and back-office operations. Every process is optimized using automation, data analytics, and AI to ensure accuracy, speed, and consistency.',
+        'At KapitalCorp, our Business Process Outsourcing (BPO) services are designed to streamline operations, reduce costs, and accelerate growth for businesses worldwide. Our services are built around flexibility, efficiency, and innovation, enabling organizations to focus on their core competencies while we manage the rest with precision and care. Through our BPO division, we provide end-to-end support in areas such as customer service, technical support, finance, HR, and back-office operations. Every process is optimized using automation, data analytics, and AI to ensure accuracy, speed, and consistency.',
       paragraphthree:
-        'Complementing our BPO expertise, our software teams deliver tailored digital solutions from enterprise platforms to mobile applications and SaaS tools, engineered to meet unique business challenges. We focus on user experience, system integration, and scalability, ensuring that our technology grows with your business. Our deep industry knowledge and agile delivery model make us a trusted partner for startups, SMEs, and global enterprises alike. Whether it’s handling high-volume processes or building custom digital ecosystems, KapitalCorp is committed to driving transformation and measurable results. We don’t just outsource and code - we optimize, innovate, and empower businesses to perform at their best.',
+        'Our deep industry knowledge and agile delivery model make us a trusted partner for startups, SMEs, and global enterprises alike. Whether it’s handling high-volume processes or managing specialized back-office functions, KapitalCorp is committed to driving transformation and measurable results. We don’t just outsource - we optimize, innovate, and empower businesses to perform at their best.',
       headertwo: 'Companies',
       headerthree: 'Our Companies in the',
-      headerfour: ' Software and BPO Sector',
+      headerfour: 'BPO Sector',
       paragraphfour:
-        'Delivering excellence through tailored BPO solutions and customized software development that optimize efficiency and elevate customer experiences across industries.',
+        'Delivering excellence through tailored BPO solutions that optimize efficiency and elevate customer experiences across industries.',
     },
     {
       id: '3',
@@ -301,6 +303,25 @@ export class SectorService {
       headerthree: 'Our Companies in the',
       headerfour: 'Defence Sector',
       paragraphfour: 'Exploratory services across People\'s Science Sciences solutions: support to secure resilience, creativity, and progress',
+    },
+    {
+      id: '13',
+      title: 'Software Solutions',
+      subtitle:
+        'Building reliable, scalable software products that digitize operations, simplify workflows, and help organizations grow with confidence.',
+      banner: '/images/transportation/banner2.jpg',
+      headerone: 'About',
+      contentone: 'Software Built to',
+      contenttwo: 'Power Your Business',
+      contentthree: 'Today and Tomorrow',
+      paragraphone:
+        'Empowering organizations with intelligent, secure, and scalable software products.',
+      paragraphtwo:
+        'Our software teams deliver tailored digital solutions, from enterprise platforms to mobile applications and SaaS tools, engineered to meet unique business challenges. Designed to streamline operations, improve accuracy, and enable smarter decision-making across healthcare, legal, finance, and enterprise environments, our products cover revenue cycle management, case handling, business analytics, and practice management.',
+      paragraphthree:
+        'We focus on user experience, system integration, and scalability, ensuring that our technology grows with your business. Our agile delivery model makes us a trusted partner for startups, SMEs, and global enterprises alike. Explore our product suite to discover how our solutions can transform the way your organization operates.',
+      buttonText: 'Explore Our Products',
+      buttonLink: '/products',
     }
 
   ];
@@ -359,7 +380,7 @@ export class SectorService {
     },
     {
       id: '12',
-      sectorId: '2', // BPO sector
+      sectorId: '13', // Software Solutions sector
       cardcontentone: 'Medcube USA',
       cardcontenttwo: 'Software Company',
       cardlogo: '/images/transportation/Medcube-logo.png',
